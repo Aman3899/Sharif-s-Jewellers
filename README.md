@@ -13,7 +13,7 @@ Welcome to **Sharif's Jewellers**, the official mobile app for Sharif Jewellers.
 
 Get the latest version of Sharif's Jewellers app:
 
-[Download APK]("https://drive.google.com/file/d/1RrXHbcuHPySPZbGWJeJnTA1S3CvtvP2a/view?usp=drive_link")
+[Download APK](https://drive.google.com/file/d/1RrXHbcuHPySPZbGWJeJnTA1S3CvtvP2a/view?usp=drive_link)
 
 ---
 
